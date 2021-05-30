@@ -1,3 +1,5 @@
 # Qt5_Intermediate_8.1_Serialization_SerializingQObjects
 
-#SourceCode to be added soon
+#Under Serialization serializing QObject discussed and 
+
+#SourceCode added 
